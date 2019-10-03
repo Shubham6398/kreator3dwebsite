@@ -1,0 +1,287 @@
+/* to do
+bahnschrift import -- done
+
+
+
+
+
+*/
+
+
+/* Body */
+
+body, html {
+  height: 100%;
+}
+
+.pagebgcolor
+{
+  background-color: #131313;
+}
+
+/* Navbar */
+
+.navbar-center
+{
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
+}
+.navlink
+{
+  color:white;
+}
+.navcurrent
+{
+  color:orange;
+}
+
+/* Firstsection */
+
+.firstsection
+{
+  background-image: url('../images/bg1.png');
+  height: 92%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.kreatorbgtext
+{
+
+  background-image: url('../images/landerprinter.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+
+}
+
+.kreatorbgtext p
+{
+  font-size: 20vw;
+  text-align: center;
+  font-family: "Poppins";
+  height: 100%;
+  opacity: 0.10;
+  color: white;
+
+}
+
+/* Second Section */
+
+.secondsection
+{
+  background-image: url('../images/bg2.png');
+  height: 45%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Verdana";
+  color: white;
+}
+
+.secondsectiontitle
+{
+  text-align: center;
+  padding:30px;
+  font-size: 2.5vw;
+}
+
+.secondsectiongridleft
+{
+  text-align: right;
+  border: 2px;
+  border-color: white;
+  padding-top: 3vw;
+  padding-right: 5vw;
+  font-size: 1vw;
+}
+
+.secondsectiongridright
+{
+  text-align: left;
+  border: 2px;
+  border-color: white;
+  padding-top: 3vw;
+  padding-left: 5vw;
+  font-size: 1vw;
+}
+
+/*Third Section*/
+.thirdsection
+{
+  background-image: url('../images/bg3.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 75%;
+}
+
+/*Fourth Section*/
+
+
+.fourthsection
+{
+  background-image: url('../images/bg4.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 25%;
+}
+
+/*Fifth Section
+
+Need to make a bg image for this. Tell shubham*/
+
+
+.fifthsection
+{
+  background-image: url('../images/bg5.png');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.fifthsectionfirsttitle
+{
+  font-family: "Bahnschrift Regular";
+  font-size: 1vw;
+  padding-top: 5.5vw;
+  padding-bottom: 4vw;
+  color: grey;
+}
+
+.fifthsectionsecondtitle
+{
+  font-family: "Gotham";
+  font-size: 4vw;
+  padding-bottom: 2.5vw;
+}
+
+.fifthsectionthirdtitle
+{
+  font-family: "Bahnschrift Regular";
+  font-size: 1.2vw;
+}
+
+.fifthsectionfourthtitle
+{
+  font-family: "Gotham";
+  font-size: 1.5vw;
+  padding-top: 1.5vw;
+}
+
+.fifthsectiongallerytitle
+{
+  font-family: "Bahnschrift Regular";
+  font-size: 1vw;
+  padding-top: 5.5vw;
+  padding-bottom: 4vw;
+  color: grey;
+}
+
+/* Sixth Section */
+
+.sixthsection
+{
+  background-color: #131313;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.sixthsectionfirstpart
+{
+  padding-top: 14vw;
+}
+
+.sixthsectionleftside
+{
+  font-size: 2.1vw;
+  padding-bottom: 1vw;
+  font-family: "Gotham";
+}
+
+/* Seventh Section*/
+
+.seventhsection
+{
+  background-color: #131313;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;}
+
+
+
+
+  /* Eighth Section*/
+
+  .eighthsection
+  {
+    background-color: #131313;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+  }
+
+
+
+
+  /* Ninth Section */
+
+  .ninthsection
+  {
+    background-color: #131313;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+  }
+
+  .ninthmidsection
+  {
+    border-color: red;
+    border-width: 5px;
+    background-color: orange;
+
+  }
+
+  
+  /* Footer */
+
+  .footerfont
+  {
+    font-family: "Bahnschrift"
+  }
+  .footerlogo
+  {
+    width: 30%;
+    max-width: 100%;
+    height: auto;
+  }
+  .footerflag
+  {
+    width: 7%;
+    max-width: 100%;
+    height: auto;
+  }
+  .footerbgcolor
+  {
+    background-color: #131313;
+  }
+  .footertitlecolor
+  {
+    color: white;
+  }
+  .footerlinks
+  {
+    color: orange;
+  }
